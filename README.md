@@ -32,6 +32,10 @@
 - 🟡 **[Billing Software System](https://github.com/PremTan/Billing-Software-System)** *(Work in Progress)*  
    A Java Spring Boot application for managing billing operations, customer bills, and product history.  
 
+- 🟢 **[Session-Based Authentication System](https://github.com/PremTan/Security-Registration)**  
+   A Spring Boot + Spring Security project implementing user registration, login, logout, and profile endpoints with session-based authentication.
+
+
 ---
 
 ### 🤝 Connect with Me
